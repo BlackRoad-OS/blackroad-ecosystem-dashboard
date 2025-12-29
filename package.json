@@ -12,7 +12,16 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
-  "keywords": ["blackroad", "dashboard", "ecosystem", "analytics"],
+  "keywords": [
+    "blackroad",
+    "dashboard",
+    "ecosystem",
+    "analytics"
+  ],
   "author": "BlackRoad Systems",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "prettier": "^3.7.4"
+  }
 }
